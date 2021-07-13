@@ -2,8 +2,8 @@
 # KITTI/devkit/
 # KITTI/pose_GT/
 *.png
-records/
-result/
-models/
-pretrained/
+# records/
+# result/
+# models/
+# pretrained/
 *.ipynb
